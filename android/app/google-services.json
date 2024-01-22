@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "796850221727",
+    "project_id": "omra-12f6d",
+    "storage_bucket": "omra-12f6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796850221727:android:9016856fbfe8eb695c28aa",
+        "android_client_info": {
+          "package_name": "com.example.omra"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDthjNfEL3vQc_jHFqJEBGUMlL-JwseSNE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
